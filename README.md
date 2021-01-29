@@ -1,3 +1,3 @@
-# study
-SpringBoot, JPA
-API TEST
+# 사용기술
+SpringBoot, JPA, lombok
+RestApi
